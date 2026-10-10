@@ -1,0 +1,9 @@
+.Corpo{
+    text-align: center;
+    color: aliceblue;
+    font-size:large;
+}
+body{
+   background: url(imgtest/Pizzaria3.jpg) no-repeat;
+   background-size: cover;
+}
